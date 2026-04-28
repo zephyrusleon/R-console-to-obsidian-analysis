@@ -1,0 +1,4 @@
+interface:
+  display_name: "R Obsidian Bridge"
+  short_description: "Move R console results into Obsidian and read them back."
+  default_prompt: "Capture RStudio or Positron console results into my Obsidian vault, then read and summarize those captured notes."
